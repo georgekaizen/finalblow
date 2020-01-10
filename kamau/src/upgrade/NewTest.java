@@ -56,7 +56,7 @@ public class NewTest {
 							  // updated the web hook to push only...
 							  // This is a new commit that we need soo much.
 							  // well well that was not enough yet bana
-							  // yes bana
+							  // yes bana God is good
 							  // we still need to puhs comments updated
 
 							  // the last comments are for just updaing jenkins to test the weebhook.
